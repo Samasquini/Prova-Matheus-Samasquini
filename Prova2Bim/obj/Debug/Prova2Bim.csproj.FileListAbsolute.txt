@@ -1,0 +1,12 @@
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\teste pro repositorio\Prova2Bim\Prova2Bim\bin\Debug\Prova2Bim.exe.config
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\teste pro repositorio\Prova2Bim\Prova2Bim\bin\Debug\Prova2Bim.exe
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\teste pro repositorio\Prova2Bim\Prova2Bim\bin\Debug\Prova2Bim.pdb
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\teste pro repositorio\Prova2Bim\Prova2Bim\obj\Debug\Prova2Bim.csproj.AssemblyReference.cache
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\teste pro repositorio\Prova2Bim\Prova2Bim\obj\Debug\Prova2Bim.csproj.SuggestedBindingRedirects.cache
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\teste pro repositorio\Prova2Bim\Prova2Bim\obj\Debug\Prova2Bim.Form1.resources
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\teste pro repositorio\Prova2Bim\Prova2Bim\obj\Debug\Prova2Bim.Properties.Resources.resources
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\teste pro repositorio\Prova2Bim\Prova2Bim\obj\Debug\Prova2Bim.Prova.resources
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\teste pro repositorio\Prova2Bim\Prova2Bim\obj\Debug\Prova2Bim.csproj.GenerateResource.cache
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\teste pro repositorio\Prova2Bim\Prova2Bim\obj\Debug\Prova2Bim.csproj.CoreCompileInputs.cache
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\teste pro repositorio\Prova2Bim\Prova2Bim\obj\Debug\Prova2Bim.exe
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\teste pro repositorio\Prova2Bim\Prova2Bim\obj\Debug\Prova2Bim.pdb

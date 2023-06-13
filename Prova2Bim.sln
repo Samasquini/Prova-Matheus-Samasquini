@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prova2Bim", "Prova2Bim\Prova2Bim.csproj", "{F40216F9-DF90-4936-80E0-B81062AAD044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F40216F9-DF90-4936-80E0-B81062AAD044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40216F9-DF90-4936-80E0-B81062AAD044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40216F9-DF90-4936-80E0-B81062AAD044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40216F9-DF90-4936-80E0-B81062AAD044}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF4BA5C4-CF29-4923-B7F6-3AF9CC2B93BB}
+	EndGlobalSection
+EndGlobal
