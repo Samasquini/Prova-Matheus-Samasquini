@@ -23,9 +23,14 @@ namespace Prova2Bim
         }
 
         private void button1_Click(object sender, EventArgs e)
+        { 
+            string[] prova = { textBox1.Text.ToLower(), textBox2.Text.ToLower(), textBox3.Text.ToLower(), textBox4.Text.ToLower(), textBox5.Text.ToLower(), textBox6.Text.ToLower(), textBox7.Text.ToLower(), textBox8.Text.ToLower(), textBox9.Text.ToLower(), textBox10.Text.ToLower() };
+            Calcular_Nota(prova);
+        }
+
+        private void Calcular_Nota(string[] prova)
         {
             string[] gabarito = { "a", "b", "d", "e", "c", "a", "a", "d", "e", "b" };
-            string[] prova = { textBox1.Text.ToLower(), textBox2.Text.ToLower(), textBox3.Text.ToLower(), textBox4.Text.ToLower(), textBox5.Text.ToLower(), textBox6.Text.ToLower(), textBox7.Text.ToLower(), textBox8.Text.ToLower(), textBox9.Text.ToLower(), textBox10.Text.ToLower() };
             int acertos = 0;
             for (int i = 0; i < gabarito.Length; i++)
             {
